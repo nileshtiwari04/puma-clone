@@ -1,4 +1,4 @@
-# Puma UI Clone
+# Puma UI Clone  https://nileshtiwari04.github.io/puma-clone/
 
 This repository contains a responsive clone of the Puma website UI, developed using only HTML and CSS. This project recreates the visual design and layout of the Puma website, offering a similar user experience.
 
